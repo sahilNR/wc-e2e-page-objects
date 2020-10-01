@@ -10,7 +10,7 @@ WooCommerce Page Objects to be used on end-to-end tests with Selenium WebDriver.
 ## Install
 
 ```
-npm install wc-page-objects
+npm install wc-e2e-page-objects 
 ```
 
 ## Docs
